@@ -641,6 +641,6 @@ This module connects theory to practice:
 - **Task Manager**: CLI + file storage
 - **MusicPlayer**: GUI + DB + audio + animation
 
-Use the diagrams to visualize structure. Clone, explore, and extend your code to enhance your design skills.
+Use these types of diagrams to visualize your structure. Clone, explore, and extend your code to enhance your design skills.
 
 
