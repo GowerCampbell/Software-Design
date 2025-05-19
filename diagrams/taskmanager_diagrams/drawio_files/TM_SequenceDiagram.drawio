@@ -1,0 +1,178 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1963" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;User&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="150" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="67.5" y="111.53" width="15" height="828.47" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;System&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="250" y="40" width="150" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
+          <mxGeometry x="67.5" y="127.46" width="15" height="772.54" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Read Tasks&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0833" y="10" relative="1" as="geometry">
+            <mxPoint x="130" y="629.4871186440678" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="212.5" y="629.4871186440678" />
+            </Array>
+            <mxPoint x="310" y="629.4871186440678" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Tasks Shown&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0453" relative="1" as="geometry">
+            <mxPoint x="317.5" y="358.64406779661016" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="358.64406779661016" />
+            </Array>
+            <mxPoint x="130" y="358.64406779661016" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;File&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="150" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="zKcDDSKTPOGPZCeUVa0f-1">
+          <mxGeometry x="67.5" y="127.46" width="15" height="682.54" as="geometry" />
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Create Tasks&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry y="23" relative="1" as="geometry">
+            <mxPoint x="126.25" y="183.38983050847457" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="313.75" y="183.38983050847457" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Retrieve Tasks&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.5161" y="-10" relative="1" as="geometry">
+            <mxPoint x="328.75" y="358.64406779661016" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="561.25" y="358.64406779661016" />
+              <mxPoint x="463.75" y="231.1864406779661" />
+            </Array>
+            <mxPoint x="350" y="359" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zKcDDSKTPOGPZCeUVa0f-1" target="aM9ryv3xv72pqoxQDRHE-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="406.4406779661017" as="sourcePoint" />
+            <mxPoint x="670" y="326.77966101694915" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="183.38983050847457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-9" value="Validates Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="132.40677966101694" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Error: Invalid Task Details&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.04" y="33" relative="1" as="geometry">
+            <mxPoint x="317.5" y="247.1186440677966" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="247.1186440677966" />
+            </Array>
+            <mxPoint x="130" y="247.1186440677966" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-11" value="(If validation fails)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="231.1864406779661" width="210" height="47.79661016949152" as="geometry" />
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Mark Complete&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0833" y="10" relative="1" as="geometry">
+            <mxPoint x="130" y="460.00338983050847" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="212.5" y="460.00338983050847" />
+            </Array>
+            <mxPoint x="310" y="460.00338983050847" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Save Task&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.0446" relative="1" as="geometry">
+            <mxPoint x="332.875" y="500.00338983050847" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="415.375" y="500.00338983050847" />
+            </Array>
+            <mxPoint x="557.125" y="500.00338983050847" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Task Created&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-2">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint x="130" y="788.8135593220339" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="790" />
+            </Array>
+            <mxPoint x="130" y="788.8135593220339" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(Notify User)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="570.0049152542372" width="135" height="47.79661016949152" as="geometry" />
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Error: File Unavailable&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-2">
+          <mxGeometry x="-0.5982" y="9" relative="1" as="geometry">
+            <mxPoint x="145" y="709.1525423728814" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="710" />
+            </Array>
+            <mxPoint x="130" y="709.1525423728814" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-17" value="Save to File&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(If file unavailable)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="595" y="549.8305084745763" width="180" height="47.79661016949152" as="geometry" />
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Delete Task&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;From File&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.044" y="10" relative="1" as="geometry">
+            <mxPoint x="331.38" y="750" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="541.38" y="619" />
+            </Array>
+            <mxPoint x="558.63" y="750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-25" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Task Deleted&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.5263" y="40" relative="1" as="geometry">
+            <mxPoint x="130" y="940.0040677966101" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="940" />
+            </Array>
+            <mxPoint x="130" y="940.0040677966101" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Delete Task&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0833" y="10" relative="1" as="geometry">
+            <mxPoint x="130" y="870.0033898305085" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="213" y="890" />
+            </Array>
+            <mxPoint x="310" y="870" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKcDDSKTPOGPZCeUVa0f-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Task Updated&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry x="0.0745" y="-10" relative="1" as="geometry">
+            <mxPoint x="310" y="530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="222.5" y="530.0033898305085" />
+            </Array>
+            <mxPoint x="130" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
