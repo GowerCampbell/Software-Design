@@ -102,7 +102,7 @@ Tracks data operations:
 
 ### Overview
 
-A Python CLI app with full CRUD functionality, using file storage and MVC.
+A Python CLI (Command Line Interface ) text based app with full CRUD functionality, using file storage and MVC.
 
 - **Repo**: [Task Manager](https://github.com/GowerCampbell/TaskManager)
 
@@ -143,7 +143,7 @@ In `knotes.py`:
 
 ### Overview
 
-A GUI-based Python desktop app using tkinter + pygame with database integration.
+A GUI (Graphical User Interface)-based Python desktop app using tkinter + pygame with database integration.
 
 - **Repo**: [MusicPlayer](https://github.com/GowerCampbell/MusicPlayer)
 
